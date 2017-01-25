@@ -1,0 +1,48 @@
+
+Grading details for lab 3:
+
+ The lab is worth 100 points total. 
+
+ The SR column is the student result. The ER column is the expected
+ result. BE stands for BAD EXPRESSION! Using push and pop correctly
+ was worth 35 points, which is subtracted after each test case is
+ checked.
+========================================================================
+========================================================================
+Results:
+
+Test Name           	:	P/F	SR	ER		points
+website1            	:	PASS	2	2		5/5
+website2            	:	PASS	10	10		5/5
+website3            	:	PASS	1	1		5/5
+website4            	:	PASS	-18	-18		5/5
+multiply            	:	PASS	24	24		5/5
+mult-right-neg      	:	PASS	-24	-24		5/5
+mult-left-neg       	:	PASS	-24	-24		5/5
+mult-both-neg       	:	FAIL	-24	24		0/5
+sub-neg             	:	PASS	7	7		5/5
+neg-result          	:	PASS	-2	-2		5/5
+open paren          	:	PASS	45	45		5/5
+close paren         	:	PASS	45	45		5/5
+balance             	:	PASS	36	36		5/5
+open mix            	:	PASS	-3	-3		5/5
+close mix           	:	PASS	1	1		5/5
+balance mix         	:	PASS	0	0		5/5
+mix1                	:	PASS	-20	-20		5/5
+mix2                	:	PASS	0	0		5/5
+mix3                	:	PASS	0	0		5/5
+mix4                	:	PASS	0	0		5/5
+bonus1              	:	FAIL	4	BE		0/5
+bonus2              	:	FAIL	0	BE		0/5
+
+Correct useage of PUSH and POP:		PASS
+
+========================================================================
+Final score		95/100
+
+If you believe your score is an error or that you were
+unfairly penalized for a *small* issue, please make your
+case to a TA. If the TA agrees, we will go from there.
+Only bring small mistakes to our attention. If this system
+is abused we will no longer be able to offer it.
+	
