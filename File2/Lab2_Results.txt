@@ -1,0 +1,53 @@
+
+Grading details for lab 2:
+
+ The lab is worth 100 points total. 
+
+ There are three parts to each test case: the correctness of the
+ professor and NOT millionaire list (Prof), the correctness of the
+ millionaire and NOT professor list (Milli), and the correctness of
+ the millionaire professor list (MilliProf). There are three columns
+ in the grade report where you can see the results for each of your
+ three lists.
+
+ The result in each column will either be PASS, FAIL, or OBO. OBO means
+ Off By One, or, in other words, there was only one error in the 
+ resulting list. FAIL means that there was more than one error. PASS
+ means that there were zero errors.
+========================================================================
+========================================================================
+Results:
+
+
+Testcase Name       	:	Prof     	Milli    	MilliProf		Score
+========================================================================
+both_empty          	:	PASS     	PASS     	PASS     		3.00/3
+intersect_1stNode   	:	PASS     	PASS     	PASS     		10.00/10
+professors_empty    	:	PASS     	PASS     	PASS     		3.00/3
+intersection_all    	:	PASS     	PASS     	PASS     		10.00/10
+intersection_empty  	:	PASS     	PASS     	PASS     		3.00/3
+millionairs_empty   	:	PASS     	PASS     	PASS     		3.00/3
+on_website          	:	PASS     	PASS     	PASS     		10.00/10
+intersect_lastNode  	:	PASS     	PASS     	PASS     		10.00/10
+rand1               	:	PASS     	PASS     	PASS     		10.00/10
+rand2               	:	PASS     	PASS     	PASS     		10.00/10
+rand3               	:	PASS     	PASS     	PASS     		10.00/10
+rand4               	:	PASS     	PASS     	PASS     		10.00/10
+rand6               	:	PASS     	PASS     	PASS     		10.00/10
+rand5               	:	PASS     	PASS     	PASS     		10.00/10
+
+========================================================================
+Point total		112/112
+
+Final score		100/100
+
+The final score is your grade on the lab and is calculated as follows:
+Final score = Point total - 12
+
+
+If you believe your score is an error or that you were
+unfairly penalized for a *small* issue, please make your
+case to a TA. If the TA agrees, we will go from there.
+Only bring small mistakes to our attention. If this system
+is abused we will no longer be able to offer it.
+	
